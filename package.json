@@ -1,0 +1,32 @@
+{
+  "name": "risk-matrix-js-plugin",
+  "version": "0.1.0",
+  "description": "JS plugin to visually present Risk Martrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaychaudhary77/risk-matrix-js-plugin.git"
+  },
+  "keywords": [
+    "JS",
+    "Risk",
+    "Matrix",
+    "Project",
+    "Management",
+    "Risk",
+    "Management"
+  ],
+  "author": "Ajay Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaychaudhary77/risk-matrix-js-plugin/issues"
+  },
+  "homepage": "https://github.com/ajaychaudhary77/risk-matrix-js-plugin#readme",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "webpack": "^5.97.1"
+  }
+}
